@@ -2,3 +2,4 @@
 Dockerfile-dev
 Dockerfile-prod
 .idea
+*.log

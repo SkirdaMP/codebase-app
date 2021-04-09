@@ -1,4 +1,9 @@
 .idea
 __pycache__
+Pipfile
 Pipfile.lock
 *.pyc
+*.log
+docker-compose-prod.yml
+services/users/Dockerfile-prod
+services/users/entrypoint-prod.sh
