@@ -7,3 +7,5 @@ Pipfile.lock
 docker-compose-prod.yml
 services/users/Dockerfile-prod
 services/users/entrypoint-prod.sh
+services/client/src/components/__tests__/__snapshots__
+services/client/node_modules
